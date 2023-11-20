@@ -52,6 +52,9 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
+![image](https://github.com/Davix4u/Cloud-Computing/assets/130823585/f0979b55-46f7-427f-a3d8-0aa879a633cb)
+
+
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 ## Extended Syntax
