@@ -1,7 +1,7 @@
 # Azure storage account
-Azure storage offers a massively scalable object store for data objects, a file system service for the cloud, a messaging store for reliable messages, and SQL database 
+Azure storage offers a massively scalable object store for data objects, a file system service for the cloud, a messaging store for reliable messages, and an SQL database 
 
-Azure storage is durable, secure, scalable, Managed and accessible
+Azure storage is durable, secure, scalable, Managed, and accessible
 ### Type of storage account
 1. Blob storage
 2. Files share
@@ -33,10 +33,10 @@ Blob storage is separated into something called containers, Containers are parti
 <img width="923" alt="azure-blob=storage" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/30165370-2513-46b8-bedc-97647bafbe0b">
 
 *Note* 
-**Private** means no anonymous Access . any client cant access it, through the url because it is on private
-They need to provide access key or share access key for authentication
+**Private** means no anonymous Access. any client can't access it, through the URL because it is on a private
+They need to provide an access key or share an access key for authentication
 
-Blob or Cointainer: Means it can be access on the URL no authentication is need
+Blob or Container: This means it can be accessed on the URL no authentication is needed
 
 4. upload your file
    <img width="935" alt="azure-blob-upload" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/1bb182bc-2c1a-4c26-bea3-7af299488bc4">
@@ -46,7 +46,14 @@ Blob or Cointainer: Means it can be access on the URL no authentication is need
 5. Click property and copy the URL of the file
    <img width="960" alt="Screenshot 2023-11-23 155235" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/2d81c70c-f43b-43e2-bc1b-17d4a608751c">
 
-It will not show because it is on Private 
+It will not show because it is on the Private 
+
+<img width="960" alt="azure-blob-url-private" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/9bbf33d6-1e6a-4f42-bf40-7628df672c8e">
+
+6. Create a new container and put it on public
+   <img width="954" alt="Screenshot 2023-11-23 160535" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/29d3d9a0-ec5a-426a-82cb-dec8287ddec9">
+
+
 
 
 
