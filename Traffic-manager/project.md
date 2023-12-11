@@ -40,16 +40,16 @@ visit the default domain of the App Service , you should get a default page of t
 
    ![image](https://github.com/Davix4u/Cloud-Computing/assets/130823585/38958a3a-878f-4f33-8bb0-d7f8e22fdcd9)
 
-change default page
-edit the website with kudu (microsoft kudus) eg.demo-web-eastus2.scm.azurewebsites.net
-select debug and go to the powershell
-click site ,then click www.root
-copy and paste the **html file* and click save next
+1.change default page
+2. edit the website with kudu (microsoft kudus) eg.demo-web-eastus2.scm.azurewebsites.net
+3. select debug and go to the powershell
+4. click site ,then click www.root
+5. copy and paste the **html file* and click save next
 
 ![image](https://github.com/Davix4u/Cloud-Computing/assets/130823585/bbc5cde3-95be-4297-9e8f-ee275c7e1986)
 
-Steps 3
-create a traffic Manger at a new resource group (Provide a name and intiate traffic method
+Steps c
+1. create a traffic Manger at a new resource group (Provide a name and intiate traffic method
 
 ![image](https://github.com/Davix4u/Cloud-Computing/assets/130823585/5008e853-d1a8-44eb-9adc-42e31476de66)
 
