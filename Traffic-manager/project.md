@@ -40,7 +40,7 @@ visit the default domain of the App Service , you should get a default page of t
 
    ![image](https://github.com/Davix4u/Cloud-Computing/assets/130823585/38958a3a-878f-4f33-8bb0-d7f8e22fdcd9)
 
-1.change default page
+1. change default page
 2. edit the website with kudu (microsoft kudus) eg.demo-web-eastus2.scm.azurewebsites.net
 3. select debug and go to the powershell
 4. click site ,then click www.root
